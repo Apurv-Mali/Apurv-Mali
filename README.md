@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Apurv-Mali
+- 👀 I’m interested in Frontend Devlopment
+- 🌱 I’m currently learning Python Django
+- 😄 Pronouns: Team Leader
